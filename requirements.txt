@@ -1,0 +1,24 @@
+ipykernel == 5.5.6
+ipython == 7.34.0
+jupyter-client == 6.1.12
+jupyter-console == 6.1.0
+jupyter_core == 5.7.2
+jupyter-server == 1.24.0
+langchain==0.2.10
+langchain-community==0.2.10
+langchain-openai==0.1.17
+langchain-google-genai==1.0.10
+langchain-groq==0.1.6
+langchain-chroma==0.1.2
+faiss-cpu==1.10.0
+langchainhub==0.1.21
+langserve==0.2.2
+httpx==0.27.2
+sse_starlette==2.3.3
+langgraph==0.1.19
+python-dotenv==1.0.1
+notebook == 6.5.5
+bs4==0.0.2
+unstructured==0.15.0
+pypdf==4.3.1
+wikipedia==1.4.0
